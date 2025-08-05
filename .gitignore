@@ -1,2 +1,4 @@
+writable/logs/*
+vendor
 .env
-config/secrets.php
+public/img/*
