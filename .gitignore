@@ -1,4 +1,0 @@
-writable/logs/*
-vendor
-.env
-public/img/*
