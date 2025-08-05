@@ -3,7 +3,7 @@
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
             <a class="navbar-brand ps-5" href="/">
-                <svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="auto" height="50" viewBox="0 0 113.4 196.35">
+                <svg id="_레이어_2" data-name="레이어 2" xmlns="http://www.w3.org/2000/svg" width="100%" height="50" viewBox="0 0 113.4 196.35">
                     <defs>
                         <style>
                         .cls-1 {
